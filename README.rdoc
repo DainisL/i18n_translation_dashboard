@@ -1,0 +1,3 @@
+= I18nTranslationDashboard
+
+This project rocks and uses MIT-LICENSE.
